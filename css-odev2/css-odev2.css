@@ -1,0 +1,40 @@
+.googleLogo-container {
+    text-align: center; /* İçindeki içeriği yatay olarak ortalamak için */
+    padding-top:30px; /* padding-top ekledim */
+}
+.text-button{
+    background-color: rgb(238, 238, 238);
+    margin-left: 100px; /* margin-left ve margin-right değerlerini aynı tutmaya çalıştım */
+    margin-right: 100px; /* margin-left ve margin-right değerlerini aynı tutmaya çalıştım */
+}
+#button1{
+    margin-left: 520px;
+}
+.button{
+    height: 25px;
+    width: 100px;
+}
+#div1{
+    text-align: center;
+    padding-top: 1px ;
+    padding-bottom:8px
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between; /* Div'leri boşluk bırakarak yatay olarak hizalar */
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+  
+  .nav-div {
+    flex: 1; /* Tüm div'lerin eşit genişlikte olmasını sağlar */
+    text-align: center;
+  }
+  
+  .nav-div a {
+    display: block; /* Linkleri blok element yaparak alt alta yerine yan yana gelmelerini sağlar */
+  }
+  .textbox{
+  margin-left: 440px;
+  }

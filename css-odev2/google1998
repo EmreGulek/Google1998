@@ -1,0 +1,45 @@
+<!--
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css-odev2.css">
+</head>
+<body>
+    <header>
+        <img src="css-odev2-ımage/google.jpg" alt="Google-1998-Image" id="Google-1998-Image">
+        <div class="button-and-text-div">
+            <span style="padding-left:45.5%; margin-top:50px;">Search the web using Google!</span>
+            
+            <div class="a">
+            <input type="text" style="width:280px; "> <br>
+            <input type="button" name="button1" class="button" value="Google Search" style="height:20px; font-size: 14px; margin-left:30px; ">
+            <input type="button" name="button2" class="button" value="I'm feeling lucky" style="height:20px; font-size: 14px;">
+        </div>
+        <div class="last-part">
+            <div>
+                <p class="p">Special Searches</p></div>
+                <a href="" class="p"><p>Stanford Search</p></a>
+                <a href="" class="p"><p>Linux Search</p></a>
+
+        </div>
+        <div></div>
+        <div></div>
+        </div>
+    </header>
+</body>
+</html>
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+</html>
